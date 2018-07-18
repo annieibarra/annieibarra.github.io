@@ -9,9 +9,10 @@
 title: Your awesome title
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Recent graduate in the field of Computer Science and Mathematics. 
+  A self-motivated, creative, team player with a passion for analytics 
+  and the ability to learn quickly. Aiming to find a professional position 
+  to both advance and contribute skills as a programmer and problem solver.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
